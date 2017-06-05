@@ -1,0 +1,24 @@
+<idea-plugin>
+    <id>plugin.id</id>
+    <name>plugin.name</name>
+    <version>0.0.007</version>
+    <vendor>plugin.vendor</vendor>
+
+    <description>Description</description>
+
+    <change-notes>Change Notes</change-notes>
+
+    <idea-version since-build="171.0"/>
+
+    <extensions defaultExtensionNs="com.intellij">
+    </extensions>
+
+    <actions>
+    </actions>
+
+    <project-components>
+    </project-components>
+
+    <application-components>
+    </application-components>
+</idea-plugin>
