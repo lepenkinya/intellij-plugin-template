@@ -18,8 +18,14 @@
     </actions>
 
     <project-components>
+        <component>
+            <implementation-class>sample.SampleProjectComponent</implementation-class>
+        </component>
     </project-components>
 
     <application-components>
+        <component>
+            <implementation-class>sample.SampleAppComponent</implementation-class>
+        </component>
     </application-components>
 </idea-plugin>
