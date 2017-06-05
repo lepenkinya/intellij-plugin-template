@@ -11,6 +11,8 @@
     <idea-version since-build="171.0"/>
 
     <extensions defaultExtensionNs="com.intellij">
+        <applicationService serviceInterface="sample.SampleNotificationService"
+                            serviceImplementation="sample.NotificationServiceImpl"/>
     </extensions>
 
     <actions>
