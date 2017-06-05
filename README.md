@@ -1,8 +1,8 @@
 # intellij-plugin-template
 IntelliJ plugin template for hassle free development start.  
-Download, change plugin name, run.  
-Couple examples inside.
+Component registration samples inside.
 
+Download, change plugin name, run.
 
 - wget https://github.com/lepenkinya/intellij-plugin-template/archive/master.zip
 - unzip
