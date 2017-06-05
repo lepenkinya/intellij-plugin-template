@@ -3,3 +3,6 @@ IntelliJ Plugin Template
 
 
 wget https://github.com/lepenkinya/intellij-plugin-template/archive/master.zip
+unzip
+change ijPluginName in gradle.properties
+open in IJ
