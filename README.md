@@ -1,6 +1,6 @@
 # intellij-plugin-template
-IntelliJ plugin template for hassle free development start.
-Download, change plugin name, run.
+IntelliJ plugin template for hassle free development start.  
+Download, change plugin name, run.  
 Couple examples inside.
 
 
