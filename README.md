@@ -1,5 +1,5 @@
 # intellij-plugin-template
-IntelliJ plugin template for hassle free development start, powered by [gradle-intellij-plugin](https://github.com/JetBrains/gradle-intellij-plugin)  
+IntelliJ plugin template for hassle free development start, powered by [gradle-intellij-plugin](https://github.com/JetBrains/gradle-intellij-plugin).  
 Component registration samples inside.
 
 Download, change plugin name, run.
