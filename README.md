@@ -9,3 +9,4 @@ Download, change plugin name, run.
 - change ijPluginName in gradle.properties
 - open in IJ
 - VCS -> Import into Version Control -> Share Project On GitHub
+- ./gradlew runIdea
