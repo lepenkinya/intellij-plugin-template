@@ -6,7 +6,8 @@ Download, change plugin name, run.
 
 - wget https://github.com/lepenkinya/intellij-plugin-template/archive/master.zip
 - unzip
+- ./gradlew runIdea
+
 - change ijPluginName in gradle.properties
 - open in IJ
 - VCS -> Import into Version Control -> Share Project On GitHub
-- ./gradlew runIdea
