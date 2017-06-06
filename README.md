@@ -4,10 +4,12 @@ Component registration samples inside.
 
 Download, change plugin name, run.
 
+Run plugin:
 - wget https://github.com/lepenkinya/intellij-plugin-template/archive/master.zip
 - unzip
 - ./gradlew runIdea
 
+Tweaking:
 - change ijPluginName in gradle.properties
 - open in IJ
 - VCS -> Import into Version Control -> Share Project On GitHub
